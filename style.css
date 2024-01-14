@@ -1,20 +1,10 @@
-h1{   /* ----- New fONTS -----*/
-	/*font-family: gellisto;
-	font-family: brain work;
-	font-family: Neospace Expanded ;
-	font-family: cashrole ; */
-
-	font-family: Bungee Spice Regular ;
-	color: #40F6E3;
+h1{
+  font-family: Bungee Spice Regular ;
+  color: #40F6E3;
 }
 
 
-h2{   /* ----- New fONTS -----*/
-	/*font-family: gellisto;
-	font-family: brain work;
-	font-family: Neospace Expanded ;
-	font-family: cashrole ;
-	font-family: Bungee Spice Regular ; */
-	font-family: Neospace Expanded ;
+h2{   
+	font-family: gellisto ;
 	color: #f68040;
 }
