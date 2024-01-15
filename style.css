@@ -1,6 +1,7 @@
 h1{
   font-family: Bungee Spice Regular ;
   color: #40F6E3;
+<<<<<<< HEAD
   margin: 20px;
 }
 
@@ -8,4 +9,7 @@ h1{
 h2{
 	font-family: gellisto ;
 	color: #f68040;
+=======
+  padding: 20px;
+>>>>>>> feature-4
 }
